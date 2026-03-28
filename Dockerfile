@@ -22,6 +22,8 @@ COPY . .
 
 Password=12345678
 token= HODSFJIOjkdifj@£$%^&kldslkfkldsmkdk089IREKER
+
+API=LKJSDKFJKD$%^&^KKLSDKDKLF1234
 #For ARM Arch
 RUN GOARCH=amd64 GOOS=linux go build -o main .
 
