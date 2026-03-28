@@ -21,7 +21,11 @@ COPY . .
 #RUN go build -o main .
 
 Password=12345678
+Password=1234546546nkfg
 
+API token = jdafjiodajfiodjfiodjsfdfjioajfddsaIODSAHFHDSAFOJFFdfdfdf
+
+pass=manoj!234
 #For ARM Arch
 RUN GOARCH=amd64 GOOS=linux go build -o main .
 
